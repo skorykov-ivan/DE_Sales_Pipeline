@@ -109,7 +109,7 @@ DAGs ─► Airflow (CeleryExecutor)  ──►  PostgreSQL (user)  ──►  C
 │   ├── bot.py
 │   ├── Dockerfile
 │   ├── requirements.txt
-│   └── tg_bot_screen.png        # скриншот телеграм-бота
+│   └── tg_bot_screen.png        # скриншот Telegram-бота
 ├── .env                         # секреты (в git не добавлять!)
 ├── .env.example                 # шаблон переменных окружения
 ├── .gitignore
