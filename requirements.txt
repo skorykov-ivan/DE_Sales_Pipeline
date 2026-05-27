@@ -1,0 +1,7 @@
+apache-airflow-providers-celery
+psycopg2-binary==2.9.9
+clickhouse-driver==0.2.7
+pyspark==3.5.0
+pandas==2.2.0
+numpy==1.26.4
+faker==19.13.0

@@ -1,0 +1,28 @@
+.env
+*.env.local
+*.env.production
+
+# Генерируемые данные и артефакты
+data/
+logs/
+config/
+plugins/
+*.csv
+*.parquet
+*.avro
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Docker
+.docker/
+
+# IDE
+.idea/
+.vscode/
+*.swp
